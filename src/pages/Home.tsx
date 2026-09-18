@@ -10,8 +10,8 @@ const homeJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
   name: "Bunot",
-  url: 'https://bunot.com',
-  logo: 'https://bunot.com/bmlogonew2.png',
+  url: 'https://bunotbd.com',
+  logo: 'https://bunotbd.com/bmlogonew2.png',
   description:
     "Premium baby and maternity clothing from Bangladesh, crafted with the softest fabrics and utmost care.",
   areaServed: 'BD',

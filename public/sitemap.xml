@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bunot.com/</loc>
+    <loc>https://bunotbd.com/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://bunot.com/shop</loc>
+    <loc>https://bunotbd.com/shop</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://bunot.com/shop/baby</loc>
+    <loc>https://bunotbd.com/shop/baby</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bunot.com/shop/mom</loc>
+    <loc>https://bunotbd.com/shop/mom</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bunot.com/about</loc>
+    <loc>https://bunotbd.com/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://bunot.com/contact</loc>
+    <loc>https://bunotbd.com/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://bunot.com/size-guide</loc>
+    <loc>https://bunotbd.com/size-guide</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://bunot.com/shipping</loc>
+    <loc>https://bunotbd.com/shipping</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://bunot.com/returns</loc>
+    <loc>https://bunotbd.com/returns</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>

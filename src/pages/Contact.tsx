@@ -17,7 +17,7 @@ export default function Contact() {
   }, [])
 
   const phone = settings?.phone ?? '+880 1700 000000'
-  const email = settings?.email ?? 'hello@bunot.com'
+  const email = settings?.email ?? 'hello@bunotbd.com'
   const address = settings?.address ?? 'Dhaka, Bangladesh'
 
   const handleSubmit = async (e: React.FormEvent) => {

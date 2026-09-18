@@ -17,7 +17,7 @@ export default function Footer() {
 
   const logoUrl = settings?.logo_url ?? '/bmlogonew2.png'
   const phone = settings?.phone ?? '+880 1700 000000'
-  const email = settings?.email ?? 'hello@bunot.com'
+  const email = settings?.email ?? 'hello@bunotbd.com'
   const address = settings?.address ?? 'Dhaka, Bangladesh'
 
   return (
